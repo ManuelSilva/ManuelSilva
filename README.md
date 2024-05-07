@@ -147,7 +147,7 @@
             </td>
         </tr>
     </table><!---->
-    <h2>▶️<picture><img src="https://img.shields.io/badge/IGN-BF1313?logo=ign&logoColor=fff&style=plastic" alt="IGN Badge"></picture> レビュー</h2>
+    <h2><picture><img src="https://img.shields.io/badge/IGN-BF1313?logo=ign&logoColor=fff&style=plastic" alt="IGN Badge"></picture> レビュー ▶️</h2>
     <table>
         <tr>
             <td><a href="https://www.youtube.com/watch?v=l46E7Q3UKqI"><img src = "./Thumbnails/phantomLiberty.jpg"></a></td>
