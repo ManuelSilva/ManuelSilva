@@ -6,7 +6,7 @@
     <br>
     <picture><img src="./banner.png" alt="banner"></picture>
     <p>
-      はじめまして、<b>マヌエル</b>です。<br>
+      はじめまして、<b>マヌエル</b>です👋<br>
       ポルトガルにある「<a href="https://pt.wikipedia.org/wiki/Instituto_Superior_T%C3%A9cnico"><img src="https://custom-icon-badges.demolab.com/badge/IST-Instituto%20Superior%20T%C3%A9cnico-blue?style=plastic&logo=ist&logoColor=white" alt="IST"></a>」という工学大学を卒業して、<br>
       ポーランドの「<a href="https://www.cdprojektred.com"><img src="https://custom-icon-badges.demolab.com/badge/CD%20Projekt%20Red-000000?style=plastic&logo=rarog_cdp_red&logoColor=white" alt="CDPR"></a>」に５年７ヶ月間勤めていました。<br>
       東京の<a href="https://www.kudan-japanese-school.com"><img src="https://custom-icon-badges.demolab.com/badge/%E4%B9%9D%E6%AE%B5-%E6%97%A5%E6%9C%AC%E6%96%87%E5%8C%96%E7%A0%94%E7%A9%B6%E6%89%80%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%AD%A6%E9%99%A2-C51D63?style=plastic&logo=kudan_language_school" alt="九段"></a>で留学生として勉強しています。<br><br>
